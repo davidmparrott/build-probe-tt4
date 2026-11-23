@@ -1,0 +1,15 @@
+{
+  "client_id": "https://raw.githubusercontent.com/davidmparrott/build-probe-tt4/main/client.json",
+  "client_name": "Turkey Trot probe",
+  "redirect_uris": [
+    "https://raw.githubusercontent.com/davidmparrott/build-probe-tt4/main/cb"
+  ],
+  "token_endpoint_auth_method": "none",
+  "grant_types": [
+    "authorization_code",
+    "refresh_token"
+  ],
+  "response_types": [
+    "code"
+  ]
+}
